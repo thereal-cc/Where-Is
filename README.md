@@ -4,7 +4,7 @@ A simple Javascript program to find a file on your computer.
 
 ## How to use
 
-This program can be used via npx or by installing it globally. Here's the general usage:  
+This program can be used via npx, installing it globally, or downloading the project and running it locally. Here's the general usage for npx:  
 
 ```bash
 npx where-is <filename> [directory]

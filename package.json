@@ -1,6 +1,6 @@
 {
   "name": "where-is",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Locates a given file and lists its location",
   "main": "index.js",
   "type": "module",
