@@ -10,7 +10,7 @@ This program can be used via npx, installing it globally, or downloading the pro
 npx where-is <filename> [directory]
 ```
 
-In this example, "filename" will be replaced by the file you're searching for, while[directory] will be the folder you'll start searching in (defaults to the root directory, which will take longer).
+In this example, "filename" will be replaced by the file you're searching for, while [directory] will be the folder you'll start searching in (defaults to the root directory, which will take longer).
 
 ## Bugs and Feature Requests
 
